@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE page SYSTEM "../../page.dtd">
+<page xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/">
+  <space>storage</space>
+  <title>Architecture Designs</title>
+  <lower-title>architecture designs</lower-title>
+  <body><ac:structured-macro ac:name="children" ac:schema-version="2" data-layout="default" ac:local-id="2edf768a-1659-461e-9bde-6e4b963d4d21" ac:macro-id="3ec241e1-9554-4730-b2ed-59a4e0300724"><ac:parameter ac:name="allChildren">true</ac:parameter></ac:structured-macro></body>
+  <category>storage-team</category>
+  <category>confluence</category>
+</page>

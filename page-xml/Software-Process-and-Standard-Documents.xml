@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE page SYSTEM "../../page.dtd">
+<page xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/">
+  <space>storage</space>
+  <title>Software Process and Standard Documents</title>
+  <lower-title>software process and standard documents</lower-title>
+  <body><ac:structured-macro ac:name="children" ac:schema-version="2" data-layout="default" ac:local-id="be5b62f1-280f-4af1-bf0e-76d5d7afbb24" ac:macro-id="53538554c14be24de0edd5b9512a2d8519178af9dde02d18a8537024fd08ecf4"><ac:parameter ac:name="depth">2</ac:parameter><ac:parameter ac:name="allChildren">true</ac:parameter><ac:parameter ac:name="style" /><ac:parameter ac:name="sortAndReverse" /><ac:parameter ac:name="first">0</ac:parameter></ac:structured-macro></body>
+  <category>storage-team</category>
+  <category>confluence</category>
+</page>

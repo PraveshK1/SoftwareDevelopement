@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE page SYSTEM "../../page.dtd">
+<page xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/">
+  <space>storage</space>
+  <title>UML Use Case Diagrams</title>
+  <lower-title>uml use case diagrams</lower-title>
+  <body><p>A use case diagram is a basic diagram of what a system does at a very high level and doesn&apos;t show a high level of detail.</p><p>The diagram should be restricted to just a simplistic visualization</p><p>It shows the following items:</p><ul><li><p>System or application (square box)</p></li><li><p>People, organizations, or other systems that interact with it (stick man)</p></li><li><p>What the system or application does (oval shape)</p></li><li><p>Basic flows of what the system does (lines between objects)</p></li></ul><ac:image ac:align="center" ac:layout="center" ac:original-height="1877" ac:original-width="734" ac:custom-width="true" ac:alt="UML Use Case.png" ac:width="734"><ri:attachment ri:filename="UML Use Case.png" ri:version-at-save="1" /></ac:image><p /></body>
+  <category>storage-team</category>
+  <category>confluence</category>
+</page>

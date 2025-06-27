@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE page SYSTEM "../../page.dtd">
+<page xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/">
+  <space>storage</space>
+  <title>UML Diagrams</title>
+  <lower-title>uml diagrams</lower-title>
+  <body><ac:structured-macro ac:name="children" ac:schema-version="2" data-layout="default" ac:local-id="c1fd77fd-d8ed-43ed-88fe-809f6db76e2d" ac:macro-id="ecc452d1-f4f1-48f2-80f2-a5d081399b2b"><ac:parameter ac:name="allChildren">true</ac:parameter></ac:structured-macro></body>
+  <category>storage-team</category>
+  <category>confluence</category>
+</page>

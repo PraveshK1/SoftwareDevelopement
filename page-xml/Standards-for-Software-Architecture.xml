@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE page SYSTEM "../../page.dtd">
+<page xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/">
+  <space>storage</space>
+  <title>Standards for Software Architecture</title>
+  <lower-title>standards for software architecture</lower-title>
+  <body><ac:structured-macro ac:name="children" ac:schema-version="2" data-layout="default" ac:local-id="bfc2f8e0-7d14-42c9-90c1-9545f95451b5" ac:macro-id="c58906ac-9b8b-472d-8716-63d69a7893e3"><ac:parameter ac:name="allChildren">true</ac:parameter></ac:structured-macro></body>
+  <category>storage-team</category>
+  <category>confluence</category>
+</page>
