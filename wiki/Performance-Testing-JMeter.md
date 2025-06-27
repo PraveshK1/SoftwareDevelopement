@@ -63,7 +63,7 @@ Example:
 
 
 ```
-C:\Users\Ashley>java -version
+C:\Users\Pravesh>java -version
 java version "18.0.2.1" 2022-08-18
 Java(TM) SE Runtime Environment (build 18.0.2.1+1-18)
 Java HotSpot(TM) 64-Bit Server VM (build 18.0.2.1+1-18, mixed mode, sharing)

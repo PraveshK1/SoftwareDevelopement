@@ -65,7 +65,7 @@
 
 
 
-![Visual MicroService.png](images/storage/Visual MicroService.png)
+![Visual-MicroService.png](images/storage/Visual-MicroService.png)
 
 
 

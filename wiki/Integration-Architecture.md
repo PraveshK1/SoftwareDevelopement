@@ -1,4 +1,4 @@
-21008541758540711Integration Achitecture.drawio77https://orignals.atlassian.net/wikiIntegration Achitecture.drawio013841101
+![Integration-Achitecture.drawio.png](images/storage/Integration-Achitecture.drawio.png)
 ## Architectural Patterns Used in Design
 The system uses a combination of well-established patterns designed for scalability, decoupling, and extensibility. Here's a breakdown of the architectural patterns in use:
 

@@ -134,7 +134,7 @@ Here’s the full transcription from your image, presented in plain text with cl
 
  **DATA STORE** 
 
-![Data Store.png](images/storage/Data Store.png)
+![Data Store.png](images/storage/Data-Store.png)
 
 
 * This could be the system’s database, web API that is used to retrieve data, etc.  
@@ -160,7 +160,7 @@ Here’s the full transcription from your image, presented in plain text with cl
 
  **DATA FLOW** 
 
-![Data Flow.png](images/storage/Data Flow.png)
+![Data Flow.png](images/storage/Data-Flow.png)
 
 
 * Shows movements between entities, data stores, and processes.  
@@ -220,8 +220,6 @@ Process to Data Store Rules
 
 
 
-
-Absolutely, Pravesh. Here's the full transcription from your latest image, formatted in plain text with clear headings and spacing—perfect for pasting into documentation:
 
  **DATA FLOW DIAGRAM LEVELS** 
 

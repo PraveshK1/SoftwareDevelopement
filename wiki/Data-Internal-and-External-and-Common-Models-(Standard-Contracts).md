@@ -1,4 +1,4 @@
-2100180234920644631Common Models Internal Contract.drawio33https://orignals.atlassian.net/wikiCommon Models Internal Contract.drawio01285809
+![Common Model Internal Contract.png](images/storage/Common-Models-Internal-Contract.drawio.png)
 
  **Canonical Data Model (CDM)**  pattern, which is a specialized form of the  **Enterprise Integration Pattern** . Here's how it fits:
 

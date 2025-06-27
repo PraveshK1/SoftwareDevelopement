@@ -1,4 +1,4 @@
-21008864708861871Standard Process to Build System.drawio11https://orignals.atlassian.net/wikiStandard Process to Build System.drawio018431441.9999999999998
+![Standard-Process-to-Build-System.drawio.png](images/storage/Standard-Process-to-Build-System.drawio.png)
 
 Breakdown of each component for Building and Time Estimation
 

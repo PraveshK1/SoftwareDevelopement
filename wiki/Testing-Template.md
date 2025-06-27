@@ -13,9 +13,9 @@ The Test strategy can be found here:
 ## Test Plan
 
 ### Security Testing
-Security testing should be completed using [OWASP ZAP](https://confluence.derivco.co.za/display/ASSIST/Integrations+Security+Testing+using+OWASP+ZAP+V1.0)
+Security testing should be completed using [OWASP ZAP]
 
-For any major additions or updates, threat modelling should be performed. More details can be found here [Threat Modelling](https://confluence.derivco.co.za/display/ASSIST/Integrations+Threat+Modelling+using+Microsoft%27s+Tools)
+For any major additions or updates, threat modelling should be performed. More details can be found here [Threat Modelling]
 
 ### Load and Performance Testing
 Stress Testing should be completed using [NBomber](https://confluence.derivco.co.za/display/ASSIST/Integrations+Stress+Testing)
