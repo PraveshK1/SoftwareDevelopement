@@ -1,0 +1,34 @@
+<mxfile host="ac.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
+  <diagram id="ardw4mc8S-1wSlrH3dhg" name="WebAPI Architecture">
+    <mxGraphModel dx="1410" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-1" value="KEY&#xa;⬛ Port&#xa;⭕ Provided Interface&#xa;◑ Required Interface&#xa;⬄ Uses / Depends on&#xa;👤 User/Client System&#xa;🟥 WebAPI Solution Node&#xa;📁 Folder&#xa;🟦 Controller&#xa;🟩 Model / DTO&#xa;🟧 Middleware&#xa;🟨 Service&#xa;🟥 Repository&#xa;🟪 Helper / Utility&#xa;🟫 Extension&#xa;⬜ Configuration&#xa;📦 Custom Libraries&#xa;🌐 External Node" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-2" value="🌐 External Resource" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-3" value="&lt;&lt;Service&gt;&gt;&#xa;OrderService" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-4" value="&lt;&lt;Controller&gt;&gt;&#xa;OrderController" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-5" value="&lt;&lt;Repository&gt;&gt;&#xa;OrderRepository" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-6" style="endArrow=oval;endFill=0;dashed=0;strokeColor=#000000;" edge="1" parent="1" source="cXqDjBx9q8YCWAxAc0n6-3" target="cXqDjBx9q8YCWAxAc0n6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-7" style="endArrow=open;dashed=1;strokeColor=#000000;" edge="1" parent="1" source="cXqDjBx9q8YCWAxAc0n6-4" target="cXqDjBx9q8YCWAxAc0n6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXqDjBx9q8YCWAxAc0n6-8" style="endArrow=block;dashed=0;strokeColor=#000000;" edge="1" parent="1" source="cXqDjBx9q8YCWAxAc0n6-3" target="cXqDjBx9q8YCWAxAc0n6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
